@@ -1,0 +1,7 @@
+C:\программированиеС#\35Гук\bin\Debug\35Гук.exe.config
+C:\программированиеС#\35Гук\bin\Debug\35Гук.exe
+C:\программированиеС#\35Гук\bin\Debug\35Гук.pdb
+C:\программированиеС#\35Гук\obj\Debug\35Гук.csproj.AssemblyReference.cache
+C:\программированиеС#\35Гук\obj\Debug\35Гук.csproj.CoreCompileInputs.cache
+C:\программированиеС#\35Гук\obj\Debug\35Гук.exe
+C:\программированиеС#\35Гук\obj\Debug\35Гук.pdb
