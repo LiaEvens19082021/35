@@ -1,0 +1,7 @@
+C:\программированиеС#\35.2Гук\bin\Debug\35.2Гук.exe.config
+C:\программированиеС#\35.2Гук\bin\Debug\35.2Гук.exe
+C:\программированиеС#\35.2Гук\bin\Debug\35.2Гук.pdb
+C:\программированиеС#\35.2Гук\obj\Debug\35.2Гук.csproj.AssemblyReference.cache
+C:\программированиеС#\35.2Гук\obj\Debug\35.2Гук.csproj.CoreCompileInputs.cache
+C:\программированиеС#\35.2Гук\obj\Debug\35.2Гук.exe
+C:\программированиеС#\35.2Гук\obj\Debug\35.2Гук.pdb
